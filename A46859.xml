@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jesuites new discoveries</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46859</idno>
+            <idno type="STC">Wing J721B</idno>
+            <idno type="STC">ESTC R41005</idno>
+            <idno type="EEBO-CITATION">19569953</idno>
+            <idno type="OCLC">ocm 19569953</idno>
+            <idno type="VID">109119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1690:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jesuites new discoveries</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109119:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:109119:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>THE JESUITES NEW DISCOVERIES.</p>
+            <p>Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109119:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb facs="tcp:109119:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>THE Jeſuits New Diſcoveries.</head>
+            <p>NOw is it the time to come to the Apollogy for Jeſuits, that is, it is the time to leave ſpeaking of them, for he favours them moſt which ſays leaſt of them.</p>
+            <p>Yet that it might not be forgotten, that this Order of men have been good for ſomething, theſe following diſcoveries and inventions, will demonſtrate as plainly as the noſe upon a mans face; to convince <hi>Gregory the Great,</hi> and St. <hi>Bede,</hi> two old men as would believe nothing but what they ſaw, the Jeſuits had a pair of Spectacles of their own ma<g ref="char:EOLhyphen"/>king, Conſecrated, and by the benefit of them, theſe two Old Saints did diſcern, (as they ſay) diſtinctly the Souls of their friends, when they were diſcharged of their bodies, and ſometimes the Souls of ſuch men as they knew by ſight. <hi>Bellarmine</hi> in the Book of Purgatory affirms, that a friend of his, a Prieſt borrowed the Spectacles, which were ſo truly made<g ref="char:punc">▪</g> that he got a fight of hell, and ſaw <hi>Origen,</hi> (which deſerved ſo well of the Chriſtian World) burning in hell: an ordinary ſighted man, might look into the bottom of this plot, if he could be befriended, which could b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hatch by none but the devils in hell, and acted by none but their repre<g ref="char:EOLhyphen"/>ſentatives, the Jeſuits upon Earth.</p>
+            <p>For thoſe as will not believe their eyes, or for thoſe things as cannot be ſeen, they have a Jeſuitical Tool, which is to be fitted and applyed to the ear; it was by the help of ſome ſuch inſtrument that <hi>Robert Aqui<g ref="char:EOLhyphen"/>nas,</hi> took Chriſts long Oration he made, as he hung upon the Croſs and undoubtedly he alſo had the like aſſiſtance, which dedicated that Sermon which Chriſt made in praiſe of his Father <hi>Joſeph:</hi> otherwiſe how could theſe hear, that which none but themſelves ever heard. To ſay more to ſay leſs of theſe Intelligence inſtruments, they would be very ſervicable at this time, that we might know what private ſence, the Jeſuits put up<g ref="char:EOLhyphen"/>on their laſt Speeches, which contain'd as palpable lyes; as Father <hi>Ireland</hi> who at his Execution denied he was at <hi>London</hi> in <hi>Auguſt,</hi> and brought E<g ref="char:EOLhyphen"/>vidence to aver it, when then and ſince it has appeared notoriouſly falſe, but <hi>Treſham</hi> the Gun powder Traitor did the ſame, and more they may do by the Canons of their Church, if there be a neceſſity for it.</p>
+            <p>'Tis not unlikely theſe Jeſuits ſhould be Spectacle-makers or any thing, being Jack of all trades, or as the Jeſuits Catechiſm in Engliſh has it, a Je<g ref="char:EOLhyphen"/>ſuit is every man, of which that Book will afford ſome inſtances. No<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can any man though he had declamed againſt the Jeſuits till all the ſand <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:109119:3"/>
+               <!-- PDF PAGE 24 -->
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were run <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and practiſes, which the Pope and Papiſts defend, but take o<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with another they have done their party more hurt then good, for the <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will prevail.</p>
+            <p>The Monks Contemporary with <hi>Ignatius</hi> the Jeſuits Schoolmaſter vin<g ref="char:EOLhyphen"/>dicate him for a fellow ſo ſubtill, although not very learned that he had attempted more, then the devil before his fall, that he could not only tempt, but poſſeſs the devil himſelf, they admired him as a Tranſubſtantiated de<g ref="char:EOLhyphen"/>vil, and believed the devil entered bodily into the Jeſuits, (in thoſe days) and like them transformed themſelves into all ſhapes, and haunted all pla<g ref="char:EOLhyphen"/>ces to fill it with their doctrine of divils.</p>
+            <p>The Jeſuits wickedly, and like themſelves, plead their priviledge, al<g ref="char:EOLhyphen"/>ledging they can make it appear by a true Copie of a Charter from heaven, that God had granted to their Order, that for the firſt 300 years, not one of their Order ſhould be damn'd. The book wherein this Grant is recor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, is the Image of the firſt Jeſuits; who obtained this Grant as they ſay, or rather forged the Original. <hi>Ravilliack, Chaſtell</hi> and <hi>Clement,</hi> that kil'd the Kings of <hi>France,</hi> were encouraged by ſome ſuch Charter to become Re<g ref="char:EOLhyphen"/>ligious Murtherers, they all proteſted their innocency and went chearful to their Execution like men of a ſeared Conſcience.</p>
+            <p>Above all, to diſcover their Charity is wonderful, in maintaining and furniſhing moſt Courts and conſiderable parts of Chriſtendom; with Bi<g ref="char:EOLhyphen"/>gots, quezels, and She devotes; theſe ſhe Jeſuits and other perſons po<g ref="char:EOLhyphen"/>piſhly affected are planted to purchaſs Land, to betray Councils, carry on, ſuppreſs, affect, and diſaffect Princes and people the popiſhly affected and intereſſed are the Vipers who deſire to bring forth a forreign Monarchy, no matter what ſo it be papall, though they rend the bowels of Church and State, by the Golden art of ſupplanting, when the Jeſuit himſelf cannot appear.</p>
+            <p>If any think this Apollogy too ſhort, he may think all the Jeſuites lately Executed is an Apollogie, by their own rule, that is their greateſt Argu<g ref="char:EOLhyphen"/>ment of innocency to be accuſed by us.</p>
+            <p>At this time whileſt they are yet ſomewhat able to do miſchief, let them make much of this Vindication, it may come to paſs, that as they have been expelled <hi>Venice,</hi> baniſhed <hi>France,</hi> (which Father <hi>Gavan</hi> forgot, when he ſaid all the Papall world are the Jeſuits Advocates,) they may be ſhaken off by other Princes, then their own weakneſs may be their Apollogie.</p>
+            <p>If any object, the Jeſuits have taken away rather then given any occaſi<g ref="char:EOLhyphen"/>on of writing for them, I confeſs it, and wiſh they may grow harmleſs out of neceſſity, and really verifie that which <hi>Vegetius</hi> ſaid of old War-Chariots <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed with Sithes and Hooks, that at firſt they were terrible, but at laſt <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey became contemptible.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109119:3"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
